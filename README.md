@@ -8,7 +8,7 @@ the dependencies.
 
 ## Live demo
 
-I have used this style for my [personal webpage](http://)
+I have used this style for my [personal webpage](https://parvudan.github.io)
 
 ## Basic changes
 
